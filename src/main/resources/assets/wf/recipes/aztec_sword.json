@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " S ",
+    " O ",
+    " S "
+  ],
+  
+  "key": 
+  
+  {
+    "S": 
+    {
+      "item": "minecraft:stick"
+    },
+    
+    "O": 
+    {
+      "item": "minecraft:obsidian"
+    }
+  },
+  
+  "result": 
+  {
+    "item": "wf:aztec_sword",
+    "count": 1
+  }
+}

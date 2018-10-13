@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "A  ",
+    "AA ",
+    "AAA"
+  ],
+  
+  "key": 
+  
+  {
+    "A": 
+    {
+      "item": "wf:arcane_planks"
+    }
+  },
+  
+  "result": 
+  {
+    "item": "wf:arcane_stairs",
+    "count": 4
+  }
+}

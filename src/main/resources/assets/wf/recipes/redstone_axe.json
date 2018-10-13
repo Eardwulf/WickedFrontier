@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": 
+  [
+    "RR ",
+    "RS ",
+    " S "
+  ],
+  "key": 
+  {
+    "S": 
+    {
+      "item": "minecraft:stick"
+    },
+    "R": 
+    {
+      "item": "wf:redstone_ingot"
+    }
+  },
+  "result": 
+  {
+    "item": "wf:redstone_axe",
+    "count": 1
+  }
+}

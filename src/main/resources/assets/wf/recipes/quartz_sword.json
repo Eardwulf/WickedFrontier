@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": 
+  [
+    " Q ",
+    " Q ",
+    " S "
+  ],
+  "key": 
+  {
+    "S": 
+    {
+      "item": "minecraft:stick"
+    },
+    "Q": 
+    {
+      "item": "wf:quartz_ingot"
+    }
+  },
+  "result": 
+  {
+    "item": "wf:quartz_sword",
+    "count": 1
+  }
+}

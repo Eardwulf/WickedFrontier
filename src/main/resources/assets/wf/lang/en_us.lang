@@ -1,0 +1,100 @@
+//Tab
+itemGroup.tab_wicked_frontier=Wicked Frontier
+
+//Ingots
+item.obsidian_ingot.name=Obsidian Ingot
+item.orichalcum_ingot.name=Orichalcum Ingot
+item.redstone_ingot.name=Redstone Ingot
+item.quartz_ingot.name=Quartz Ingot
+
+//Items
+item.orichalcum_dust.name=Orichalcum Dust
+item.nature_stone.name=Nature Stone
+item.leather_strips.name=Leather Strips
+
+//Trees
+tile.planks_arcane.name=Arcane Planks
+tile.sapling_arcane.name=Arcane Sapling
+tile.leaves_arcane.name=Arcane Leaves
+tile.log_arcane.name=Arcane Log
+
+//Blocks
+tile.gaia_stone.name=Gaia Stone
+tile.adobe_brick.name=Adobe Bricks
+tile.adobe_stairs.name=Adobe Stairs
+tile.adobe_slab_half.name=Adobe Slab
+tile.adobe_slab_double.name=Adobe Double Slab
+tile.adobe_fence.name=Adobe Fence
+tile.adobe_fence_gate=Adobe fence Gate
+tile.arcane_stairs.name=Arcane Stairs
+tile.arcane_slab_half.name=Arcane Slab
+tile.arcane_slab_double.name=Arcane Double Slab
+tile.arcane_fence.name=Arcane Fence
+tile.arcane_fence_gate=Arcane fence Gate
+
+//Ore
+tile.orichalcum_ore.name=Orichalcum Ore
+
+//Tools
+item.nature_staff.name=Nature Staff
+item.aztec_sword.name=Aztec Sword
+item.obsidian_sword.name=Obsidian Sword
+item.obsidian_spade.name=Obsidian Spade
+item.obsidian_pickaxe.name=Obsidian Pickaxe
+item.obsidian_axe.name=Obsidian Axe
+item.obsidian_hoe.name=Obsidian Hoe
+item.orichalcum_sword.name=Orichalcum Sword
+item.orichalcum_spade.name=Orichalcum Spade
+item.orichalcum_pickaxe.name=Orichalcum Pickaxe
+item.orichalcum_axe.name=Orichalcum Axe
+item.orichalcum_hoe.name=Orichalcum Hoe
+item.emerald_sword.name=Emerald Sword
+item.emerald_spade.name=Emerald Spade
+item.emerald_pickaxe.name=Emerald Pickaxe
+item.emerald_axe.name=Emerald Axe
+item.emerald_hoe.name=Emerald Hoe
+item.redstone_sword.name=Redstone Sword
+item.redstone_spade.name=Redstone Spade
+item.redstone_pickaxe.name=Redstone Pickaxe
+item.redstone_axe.name=Redstone Axe
+item.redstone_hoe.name=Redstone Hoe
+item.quartz_sword.name=Quartz Sword
+item.quartz_spade.name=Quartz Spade
+item.quartz_pickaxe.name=Quartz Pickaxe
+item.quartz_axe.name=Quartz Axe
+item.quartz_hoe.name=Quartz Hoe
+item.arcane_sword.name=Arcane Sword
+item.arcane_spade.name=Arcane Spade
+item.arcane_pickaxe.name=Arcane Pickaxe
+item.arcane_axe.name=Arcane Axe
+item.arcane_hoe.name=Arcane Hoe
+item.arcane_wooden_sword.name=Arcane Wooden Sword
+item.arcane_wooden_spade.name=Arcane Wooden Spade
+item.arcane_wooden_pickaxe.name=Arcane Wooden Pickaxe
+item.arcane_wooden_axe.name=Arcane Wooden Axe
+item.arcane_wooden_hoe.name=Arcane Wooden Hoe
+
+//GreatSwords
+item.greatsword_diamond.name=Diamond GreatSword
+
+//Armor
+item.obsidian_helmet.name=Obsidian Helmet
+item.obsidian_leggings.name=Obsidian Leggings
+item.obsidian_boots.name=Obsidian Boots
+item.obsidian_chestplate.name=Obsidian Chestplate
+item.orichalcum_helmet.name=Orichalcum Helmet
+item.orichalcum_leggings.name=Orichalcum Leggings
+item.orichalcum_boots.name=Orichalcum Boots
+item.orichalcum_chestplate.name=Orichalcum Chestplate
+item.emerald_helmet.name=Emerald Helmet
+item.emerald_leggings.name=Emerald Leggings
+item.emerald_boots.name=Emerald Boots
+item.emerald_chestplate.name=Emerald Chestplate
+item.redstone_helmet.name=Redstone Helmet
+item.redstone_leggings.name=Redstone Leggings
+item.redstone_boots.name=Redstone Boots
+item.redstone_chestplate.name=Redstone Chestplate
+item.quartz_helmet.name=Quartz Helmet
+item.quartz_leggings.name=Quartz Leggings
+item.quartz_boots.name=Quartz Boots
+item.quartz_chestplate.name=Quartz Chestplate

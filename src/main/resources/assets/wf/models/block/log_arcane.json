@@ -1,0 +1,13 @@
+{
+
+    "parent": "block/cube_column",
+
+    "textures": {
+
+        "end": "wf:blocks/log_arcane_top",
+
+        "side": "wf:blocks/log_arcane"
+
+    }
+
+}

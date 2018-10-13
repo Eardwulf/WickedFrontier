@@ -1,0 +1,11 @@
+{
+
+    "parent": "block/leaves",
+
+    "textures": {
+
+        "all": "wf:blocks/leaves_arcane"
+
+    }
+
+}

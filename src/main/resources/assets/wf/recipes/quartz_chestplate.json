@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": 
+  [
+    "Q Q",
+    "QQQ",
+    "QQQ"
+  ],
+  "key": 
+  {
+    "Q": 
+    {
+      "item": "wf:quartz_ingot"
+    }
+  },
+  "result": 
+  {
+    "item": "wf:quartz_chestplate",
+    "count": 1
+  }
+}

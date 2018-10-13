@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "EE ",
+    "ES ",
+    " S "
+  ],
+  
+  "key": 
+  
+  {
+    "S": 
+    {
+      "item": "wf:arcane_stick"
+    },
+    
+    "E": 
+    {
+      "item": "wf:arcane_planks"
+    }
+  },
+  
+  "result": 
+  {
+    "item": "wf:arcane_wooden_axe",
+    "count": 1
+  }
+}

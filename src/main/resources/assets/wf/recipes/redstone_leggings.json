@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": 
+  [
+    "RRR",
+    "R R",
+    "R R"
+  ],
+  "key": 
+  {
+    "R": 
+    {
+      "item": "wf:redstone_ingot"
+    }
+  },
+  "result": 
+  {
+    "item": "wf:redstone_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "O O",
+        "OOO",
+        "OOO"
+    ],
+   
+    "key":
+    {
+        "O":
+        {
+            "item": "wf:orichalcum_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "wf:orichalcum_chestplate",
+        "count": 1
+    }
+}

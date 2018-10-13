@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=top": { "model": "wf:arcane_planks" },
+        "half=bottom": { "model": "wf:arcane_planks" }
+    }
+}

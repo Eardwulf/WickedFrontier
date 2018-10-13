@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "wf:blocks/adobe_slab",
+        "top": "wf:blocks/adobe_slab",
+        "side": "wf:blocks/adobe_slab"
+    }
+}

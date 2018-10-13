@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": 
+  [
+    "R R",
+    "RRR",
+    "RRR"
+  ],
+  "key": 
+  {
+    "R": 
+    {
+      "item": "wf:redstone_ingot"
+    }
+  },
+  "result": 
+  {
+    "item": "wf:redstone_chestplate",
+    "count": 1
+  }
+}

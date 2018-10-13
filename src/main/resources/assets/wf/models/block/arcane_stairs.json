@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "wf:blocks/planks_arcane",
+        "top": "wf:blocks/planks_arcane",
+        "side": "wf:blocks/planks_arcane"
+    }
+}

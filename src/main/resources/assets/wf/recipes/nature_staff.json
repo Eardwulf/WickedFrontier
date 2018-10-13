@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "  N",
+        " S ",
+        "S  "
+    ],
+   
+    "key":
+    {
+        "N":
+        {
+            "item": "wf:nature_stone"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "wf:nature_staff",
+        "count": 1
+    }
+}

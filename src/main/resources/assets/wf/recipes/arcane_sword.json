@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " E ",
+    " E ",
+    " S "
+  ],
+  
+  "key": 
+  
+  {
+    "S": 
+    {
+      "item": "wf:arcane_stick"
+    },
+    
+    "E": 
+    {
+      "item": "minecraft:stone"
+    }
+  },
+  
+  "result": 
+  {
+    "item": "wf:arcane_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "OOO",
+        "O O",
+        "   "
+    ],
+   
+    "key":
+    {
+        "O":
+        {
+            "item": "wf:obsidian_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "wf:obsidian_helmet",
+        "count": 1
+    }
+}

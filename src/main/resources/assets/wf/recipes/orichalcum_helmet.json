@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "OOO",
+        "O O",
+        "   "
+    ],
+   
+    "key":
+    {
+        "O":
+        {
+            "item": "wf:orichalcum_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "wf:orichalcum_helmet",
+        "count": 1
+    }
+}

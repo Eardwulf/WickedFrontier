@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wf",
+  "name": "Wicked Frontier",
+  "description": "A Wicked Frontier Awaits.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Eardwulf"],
+  "credits": "All those who keep the old stories alive. :)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

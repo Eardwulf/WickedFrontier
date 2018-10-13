@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "DC ",
+    "   ",
+    "   "
+  ],
+  
+  "key": 
+  
+  {
+    "D": 
+    {
+        "item": "minecraft:dirt"
+    },
+    
+    "C":
+    {
+        "item": "minecraft:sand"
+    }
+  },
+  
+  "result": 
+  {
+    "item": "wf:blocks/adobe_brick",
+    "count": 1
+  }
+}

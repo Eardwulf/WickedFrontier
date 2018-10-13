@@ -1,0 +1,6 @@
+{
+    "parent": "block/fence_post",
+    "textures": {
+        "texture": "wf:blocks/planks_arcane"
+    }
+}

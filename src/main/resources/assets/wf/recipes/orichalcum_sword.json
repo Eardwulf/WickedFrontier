@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " O ",
+        " O ",
+        " S "
+    ],
+   
+    "key":
+    {
+        "O":
+        {
+            "item": "wf:orichalcum_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "wf:orichalcum_sword",
+        "count": 1
+    }
+}
